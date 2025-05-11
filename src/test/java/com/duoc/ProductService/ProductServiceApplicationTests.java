@@ -1,4 +1,4 @@
-package duoc.product_service;
+package com.duoc.ProductService;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
